@@ -1,0 +1,36 @@
+name: coffe_counter
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.11.0
+  cloud_firestore: ^5.6.3
+  table_calendar: ^3.2.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  firebase_database: ^11.3.4
+  flutter_lints: ^3.0.0  # Garder uniquement cette ligne
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/iconee.png  # Assure-toi que ton image est bien placée dans ce dossier
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/iconee.png" 
+  
+ 

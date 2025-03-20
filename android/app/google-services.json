@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "235276295895",
+    "firebase_url": "https://presence-c317d-default-rtdb.firebaseio.com",
+    "project_id": "presence-c317d",
+    "storage_bucket": "presence-c317d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235276295895:android:058aec4e606f2a35649a92",
+        "android_client_info": {
+          "package_name": "com.example.presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMz0WMQrBreRSJd5nwA-BZt_h6hLErWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
